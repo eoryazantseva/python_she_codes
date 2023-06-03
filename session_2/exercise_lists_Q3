@@ -1,0 +1,6 @@
+name_1 = input("Give me first name")
+name_2 = input("Give me second name")
+name_3 = input("Give me third name")
+
+list_of_names = [name_1, name_2, name_3]
+print(list_of_names)
