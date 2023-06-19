@@ -15,3 +15,8 @@ for i in lyrics:
     print(song)
 print(f"A little bit of you makes me your man (ah!)")
 print(f"*trumpet solo*")
+
+# for i in lyrics:
+#     name, text = i #unpacking the list
+#     song = "A little bit of " + name + " " + text + ";"
+#     print(song)
